@@ -37,3 +37,8 @@ for text in texts:
     )
 
 print(df['description'][0])
+
+#output be like: Registration No. HR42-A-4854
+                 Chasis No. MA3EED81S00628175
+                 Engine No. F10DN4452456
+                 Name : ASHWAN
