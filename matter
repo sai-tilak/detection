@@ -1,2 +1,16 @@
 Here we use the OCR function to copy the text from an image.
 we used python modules and packages.
+> First, we begin with the most common text recognition technique, and this is the OCR–Optical Character Recognition.
+OCR yields outstanding results only in very specific use cases, but in general, it is still considered as challenging.
+Optical Character Recognition is a technology that enables you to convert different types of documents, such as scanned paper documents, PDF files, or images captured by a digital camera into editable and searchable data.
+The most advanced OCR systems are focused on replicating natural human recognition. The OCR systems are based on three main rules–integrity, purposefulness, and adaptability.
+First, the observed object has always to be considered as one entity comprising many interrelated parts. 
+In our case, the diploma is such an entity. Second, any interpretation of data must always serve some purpose. 
+And finally, the OCR program has to be capable of self-learning.
+The OCR software is by no means one, a uniform application that serves one and the same purpose. The OCR applications are used to serve lots of different intents. 
+We can start with “reading” the printed page from a book or a random image with text (for instance, graffiti or advertisement), but we go on to reading street signs, car license plates, and even captchas. 
+OCR software takes into consideration the following factors and attributes
+Text density. On a printed page, the text is dense. However, given an image of a street with a single street sign, the text is sparse. The OCR software has to recognize both.
+Text structure. Text on a page is usually structured, mostly in strict rows, while text in the wild may be scattered everywhere, in different rotations, shapes, fonts, and sizes.
+Font. While computer fonts are quite easy to recognize, handwriting font is much more inconsistent and, therefore, harder to read.
+Artifacts. There are almost none of them on a perfectly scanned page, but what about outdoor pictures? In short, this is a completely different story, and you have to keep that in mind when using OCR.
